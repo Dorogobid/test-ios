@@ -2,6 +2,6 @@ class TestClass {
     var name: String
 }
 
-class testClass2 {
+class TestClass2 {
     name: String
 }
