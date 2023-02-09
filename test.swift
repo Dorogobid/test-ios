@@ -2,7 +2,7 @@ class TestClass {
     var name: String
 }
 
-class TestClass2 {
+class testClass2 {
     name: String
 }
 
