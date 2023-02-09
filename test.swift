@@ -5,3 +5,5 @@ class TestClass {
 class TestClass2 {
     name: String
 }
+
+var test_name = "name"
